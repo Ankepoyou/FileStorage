@@ -24,9 +24,9 @@
             ],
     "iPhone":[
                 { "id":"A001", "color": "松嶺青色",  "price": 32900, "storage":"128GB", "scren": "6.1", "picture":"green.png" },
-                { "id":"A002", "color": "銀色",  "price": 32900, "storage":"128GB", "scren": "6.1", "picture":"silver.png" },
-                { "id":"A003", "color": "金色",  "price": 32900, "storage":"128GB", "scren": "6.1", "picture":"gold.png" },
-                { "id":"A004", "color": "石墨色",  "price": 32900, "storage":"128GB", "scren": "6.1", "picture":"graphite_color.png" },
+                    { "id":"F002", "color": "銀色",  "price": 36400, "storage":"256GB", "scren": "6.7", "picture":"silver.png" },
+                    { "id":"C003", "color": "金色",  "price": 43400, "storage":"512GB", "scren": "6.1", "picture":"gold.png" },
+                    { "id":"D004", "color": "石墨色",  "price": 50400, "storage":"1TB", "scren": "6.1", "picture":"graphite_color.png" },
                 { "id":"A005", "color": "天峰藍色",  "price": 32900, "storage":"128GB", "scren": "6.1", "picture":"Tianfeng_blue.png" },
 
                 { "id":"B001", "color": "松嶺青色",  "price": 36400, "storage":"256GB", "scren": "6.1", "picture":"green.png" },
@@ -37,14 +37,14 @@
 
                 { "id":"C001", "color": "松嶺青色",  "price": 43400, "storage":"512GB", "scren": "6.1", "picture":"green.png" },
                 { "id":"C002", "color": "銀色",  "price": 43400, "storage":"512GB", "scren": "6.1", "picture":"silver.png" },
-                { "id":"C003", "color": "金色",  "price": 43400, "storage":"512GB", "scren": "6.1", "picture":"gold.png" },
+                    { "id":"A003", "color": "金色",  "price": 32900, "storage":"128GB", "scren": "6.1", "picture":"gold.png" },
                 { "id":"C004", "color": "石墨色",  "price": 43400, "storage":"512GB", "scren": "6.1", "picture":"graphite_color.png" },
                 { "id":"C005", "color": "天峰藍色",  "price": 43400, "storage":"512GB", "scren": "6.1", "picture":"Tianfeng_blue.png" },
 
                 { "id":"D001", "color": "松嶺青色",  "price": 50400, "storage":"1TB", "scren": "6.1", "picture":"green.png" },
                 { "id":"D002", "color": "銀色",  "price": 50400, "storage":"1TB", "scren": "6.1", "picture":"silver.png" },
                 { "id":"D003", "color": "金色",  "price": 50400, "storage":"1TB", "scren": "6.1", "picture":"gold.png" },
-                { "id":"D004", "color": "石墨色",  "price": 50400, "storage":"1TB", "scren": "6.1", "picture":"graphite_color.png" },
+                    { "id":"A004", "color": "石墨色",  "price": 32900, "storage":"128GB", "scren": "6.1", "picture":"graphite_color.png" },
                 { "id":"D005", "color": "天峰藍色",  "price": 50400, "storage":"1TB", "scren": "6.1", "picture":"Tianfeng_blue.png" },
 
                 { "id":"E001", "color": "松嶺青色",  "price": 32900, "storage":"128GB", "scren": "6.7", "picture":"green.png" },
@@ -54,7 +54,7 @@
                 { "id":"E005", "color": "天峰藍色",  "price": 32900, "storage":"128GB", "scren": "6.7", "picture":"Tianfeng_blue.png" },
 
                 { "id":"F001", "color": "松嶺青色",  "price": 36400, "storage":"256GB", "scren": "6.7", "picture":"green.png" },
-                { "id":"F002", "color": "銀色",  "price": 36400, "storage":"256GB", "scren": "6.7", "picture":"silver.png" },
+                    { "id":"A002", "color": "銀色",  "price": 32900, "storage":"128GB", "scren": "6.1", "picture":"silver.png" },
                 { "id":"F003", "color": "金色",  "price": 36400, "storage":"256GB", "scren": "6.7", "picture":"gold.png" },
                 { "id":"F004", "color": "石墨色",  "price": 36400, "storage":"256GB", "scren": "6.7", "picture":"graphite_color.png" },
                 { "id":"F005", "color": "天峰藍色",  "price": 36400, "storage":"256GB", "scren": "6.7", "picture":"Tianfeng_blue.png" },
